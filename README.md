@@ -27,3 +27,7 @@ On "ISS Passes" tab screen:
 	* Uses iOS MapKit to show ISS location on World map
 
 - Unit tests
+
+## Notes
+- Didn’t create app artwork because of lack of time
+- If had more time, could also develop Android app with similar features
